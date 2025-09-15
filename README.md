@@ -21,13 +21,16 @@ La aplicación es interactiva, fácil de usar y con validaciones para evitar err
 ##  Capturas de pantalla
 
 ### Pantalla principal
-(assets/captura1.png)
+![Pantalla principal](assets/captura1.png)
+
 
 ### Lista de amigos agregados
-(assets/captura2.png)
+![Lista de amigos agregados](assets/captura2.png)
+
 
 ### Sorteo realizado
-(assets/captura3.png)
+![Sorteo realizado](assets/captura3.png)
+
 
 ## Estructura del proyecto
 
